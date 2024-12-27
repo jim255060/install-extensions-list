@@ -1,0 +1,16 @@
+christian-kohler.path-intellisense
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+glenn2223.live-sass
+mhutchie.git-graph
+ms-ceintl.vscode-language-pack-zh-hant
+planbcoding.vscode-react-refactor
+pnp.polacode
+ritwickdey.liveserver
+rodrigovallades.es7-react-js-snippets
+steoates.autoimport
+streetsidesoftware.code-spell-checker
+visualstudioexptteam.intellicode-api-usage-examples
+visualstudioexptteam.vscodeintellicode
