@@ -1,12 +1,14 @@
 # 在 VsCode 上自動安裝統一的延伸模組
-執行安裝腳本
-## Linux / macOS
+## install extensions
+### Linux / macOS
 ```bash install-extensions.sh```
-## Windows
+### Windows
 ```./install-extensions.bat```
 
-# 製作延伸模組清單
-1. 製作專案開發要有的延伸模組 list  
-```code --list-extensions > extensions-list.txt```
+## Add extensions identifiers to extensions-list
+1. copy identifiers
+![圖](https://github.com/user-attachments/assets/281179d6-3e4e-4281-b235-9be9b61b0963)
 
-2. git push 模組list 和 安裝腳本到 git 給大家使用
+
+2. Export all locally installed extensions identifiers.  
+```code --list-extensions > extensions-list.txt```
